@@ -1,0 +1,11 @@
+{
+	"firstName": "Николай",
+	"lastName": "Сидоров",
+	"address": {
+		"streetAddress": "Московская ш., 101, кв.101",
+		"city": "Пенза",
+		"postalCode": 101102},
+	"phoneNumbers": [
+		"812 213-1243",
+		"912 325-1245"]
+}
